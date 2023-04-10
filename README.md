@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eightsolver" alt="eightsolver" /></a> </p>
 
-- 🔭 I’m currently working on **First X**
+- 🔭 I’m currently working on **NorthWare**
 
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **itsme-_-ﾉᵗⁿᵗ#1037**
+- 📫 How to reach me **itsme-_-#1037**
 
 - ⚡ Fun fact **I Started Coding At 6**
 
